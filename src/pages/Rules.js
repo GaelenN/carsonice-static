@@ -1,8 +1,5 @@
 import React, { Component } from "react";
-import rules from '../docs/2020-carsonice-rules.pdf';
-import supregs from '../docs/2020-carsonice-supreg.pdf';
-import techforms from '../docs/2020-carsonice-techform.pdf';
- 
+
 class Contact extends Component {
   render() {
     return (
@@ -24,9 +21,9 @@ class Contact extends Component {
         <div>
     </div>
         <ul class="list-group">
-          <li class="list-group-item"><a download href={supregs} target="_blank" rel="noopener noreferrer">Cars On Ice Rules</a></li>
-          <li class="list-group-item"><a download href={rules} target="_blank" rel="noopener noreferrer">Cars On Ice Supplemental Regulations</a></li>
-          <li class="list-group-item"><a download href={techforms} target="_blank" rel="noopener noreferrer">Cars On Ice Tech Form</a></li>
+          <li class="list-group-item"><a href='https://cars-on-ice.s3.ca-central-1.amazonaws.com/2020-carsonice-rules.pdf' target="_blank" rel="noopener noreferrer">Cars On Ice Rules</a></li>
+          <li class="list-group-item"><a href='https://cars-on-ice.s3.ca-central-1.amazonaws.com/2020-carsonice-supreg.pdf' target="_blank" rel="noopener noreferrer">Cars On Ice Supplemental Regulations</a></li>
+          <li class="list-group-item"><a href='https://cars-on-ice.s3.ca-central-1.amazonaws.com/2020-carsonice-techform.pdf' target="_blank" rel="noopener noreferrer">Cars On Ice Tech Form</a></li>
         </ul>
       </div>
     );
