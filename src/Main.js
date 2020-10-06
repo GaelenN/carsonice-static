@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import {
   Route,
   NavLink,
-  HashRouter
+  BrowserRouter as Router,
 } from "react-router-dom";
 import Home from "./pages/Home";
 import Register from "./pages/Register";
@@ -14,7 +14,7 @@ import altWhite from "./img/cars-white-alt.svg";
 class Main extends Component {
   render() {
     return (
-      <HashRouter>
+      <Router>
         <nav className="navbar navbar-expand-lg navbar-light bg-light mb-5">
           <div className="container d-flex justify-content-between align-items-center py-3">
           <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -53,7 +53,7 @@ class Main extends Component {
           </NavLink>
         </div>
       </footer>
-      </HashRouter>
+      </Router>
       );
     }
   }
