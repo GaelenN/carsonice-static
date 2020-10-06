@@ -50,7 +50,7 @@ class Home extends Component {
             <tr>
               <th className="" scope="row">CACC Licence</th>
               <td className="text-center"></td>
-              <td className="text-center"></td>
+              <td className="text-center">X</td>
               <td className="text-center">X</td>
             </tr>
           </tbody>
