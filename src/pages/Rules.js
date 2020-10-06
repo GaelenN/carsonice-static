@@ -21,12 +21,13 @@ class Contact extends Component {
         <div class="alert alert-danger" role="alert">
         **NOTE** Ice Attack requires a CACC competition licence to participate. 
         </div>
+        <div>
+    </div>
         <ul class="list-group">
-          <li class="list-group-item"><a href={supregs} target="_blank" rel="noopener noreferrer">Cars On Ice Rules</a></li>
-          <li class="list-group-item"><a href={rules} target="_blank" rel="noopener noreferrer">Cars On Ice Supplemental Regulations</a></li>
-          <li class="list-group-item"><a href={techforms} target="_blank" rel="noopener noreferrer">Cars On Ice Tech Form</a></li>
+          <li class="list-group-item"><a download href={supregs} target="_blank" rel="noopener noreferrer">Cars On Ice Rules</a></li>
+          <li class="list-group-item"><a download href={rules} target="_blank" rel="noopener noreferrer">Cars On Ice Supplemental Regulations</a></li>
+          <li class="list-group-item"><a download href={techforms} target="_blank" rel="noopener noreferrer">Cars On Ice Tech Form</a></li>
         </ul>
-
       </div>
     );
   }
