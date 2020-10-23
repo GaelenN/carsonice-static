@@ -7,9 +7,26 @@ class Register extends Component {
         <h1 className="mt-3">Register</h1>
         <h5 className="my-3">Full Season Packages are Available!</h5>
 
-        <h3>2018 Event Pricing</h3>
+        <h3>2021 Schedule</h3>
 
-        <table class="table">
+        <table class="table mb-5">
+          <tbody>
+            <tr>
+              <th className="" scope="row">Ice X</th>
+              <td className="text-right">Jan 16 / 17</td>
+              <td className="text-right">Feb 13 / 14</td>
+            </tr>
+            <tr>
+              <th className="" scope="row">Ice Attack <small>No Passing</small></th>
+              <td className="text-right">Jan 30 / 31</td>
+              <td className="text-right">Feb 27 / 28</td>
+            </tr>
+          </tbody>
+        </table>
+
+        <h3>2021 Event Pricing</h3>
+
+        <table class="table mb-5">
           <thead>
             <tr>
               <th className="text-nowrap" scope="col"></th>
@@ -21,28 +38,22 @@ class Register extends Component {
           <tbody>
             <tr>
               <th className="" scope="row">Ice X</th>
-              <td className="text-right">$60.00*</td>
-              <td className="text-right">$85.00*</td>
-              <td className="text-right">$140.00*</td>
+              <td className="text-right">$70.00</td>
+              <td className="text-right">$105.00</td>
+              <td className="text-right">$210.00</td>
             </tr>
             <tr>
               <th className="" scope="row">Ice Attack <small>No Passing</small></th>
-              <td className="text-right">$100.00*</td>
-              <td className="text-right">$175.00*</td>
-              <td className="text-right">$310.00*</td>
-            </tr>
-            <tr>
-              <th className="" scope="row">Icx & Ice Attack</th>
-              <td className="text-right">N/A</td>
-              <td className="text-right">N/A</td>
-              <td className="text-right">$450.00*</td>
+              <td className="text-right">$165.00</td>
+              <td className="text-right">$250.00</td>
+              <td className="text-right">$450.00</td>
             </tr>
           </tbody>
         </table>
-        <p>Lunch can be purchased in advance on Motorsportreg for $12 per day</p>
+        <p>Lunch can be purchased in advance on Motorsportreg for $13 per day</p>
         <p>
           <small><em>Dates are subject to change due to ice conditions</em></small><br/>
-          <small><em>*No refunds (If Cars on Ice cancels an event, refunds will be given)</em></small>
+          <small><em>No refunds (If Cars on Ice cancels an event, refunds will be given)</em></small>
         </p>
 
 
