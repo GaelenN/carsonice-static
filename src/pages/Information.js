@@ -7,11 +7,11 @@ class Information extends Component {
         <h1 className="mt-3">Information</h1>
         <h3 className="my-3">Accommodations</h3>
         <p>Majority of the racers and volunteers stay at the Ashcroft River Inn. They provide a discounted rate on race weekends. Please let them know you are participating in the Cars on Ice events. Book in advance as the Inn gets booked up quickly!</p>
-        <p>Ashcroft River Inn – <a href="http://www.ashcroftriverinn.com/" target="_blank" rel="noopener noreferrer">http://www.ashcroftriverinn.com/</a></p>
-        <h5>Other Accommodations:</h5>
-        <p>Desert Inn – <a href="http://www.desertinn.ca/" target="_blank" rel="noopener noreferrer">http://www.desertinn.ca/</a></p>
-        <p>Bear’s Claw Inn – <a href="tel:(250) 457-9705" target="_blank" rel="noopener noreferrer">(250) 457-9705</a></p>
-        <p>Sandman Inn Cache Creek – <a href="http://www.sandmanhotels.ca/hotels/cache-creek/" target="_blank" rel="noopener noreferrer">http://www.sandmanhotels.ca/hotels/cache-creek/</a></p>
+        <ol>
+          <li>Desert Inn</li>
+          <li>Bear’s Claw Inn</li>
+          <li>Sandman Inn Cache Creek</li>
+        </ol>
         <p>Barnes Lake is located 4.2 km from Ashcroft, BC. <a href="https://www.google.com/maps/place/50%C2%B042'21.8%22N+121%C2%B014'20.5%22W/@50.706055,-121.2412117,594m/data=!3m2!1e3!4b1!4m21!1m14!4m13!1m6!1m2!1s0x548673f143a94fb3:0xbb9196ea9b81f38b!2sVancouver,+BC!2m2!1d-123.1207375!2d49.2827291!1m3!2m2!1d-121.2333333!2d50.7!3e0!5i1!3m5!1s0x0:0x0!7e2!8m2!3d50.7060551!4d-121.2390226" target="_blank" rel="noopener noreferrer">(Lat/Long: 50.700001 -121.23333)</a></p>
 
         <h3 className="my-3">FAQ - Frequently Asked Questions</h3>
