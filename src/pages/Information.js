@@ -6,7 +6,7 @@ class Information extends Component {
       <div>
         <h1 className="mt-3">Information</h1>
         <h3 className="my-3">Accommodations</h3>
-        <p>Majority of the racers and volunteers stay at the Ashcroft River Inn. They provide a discounted rate on race weekends. Please let them know you are participating in the Cars on Ice events. Book in advance as the Inn gets booked up quickly!</p>
+        <p>Majority of the racers and volunteers stay at the Desert Inn. They provide a discounted rate on race weekends. Please let them know you are participating in the Cars on Ice events. Book in advance as the Inn gets booked up quickly!</p>
         <ol>
           <li>Desert Inn</li>
           <li>Bear’s Claw Inn</li>

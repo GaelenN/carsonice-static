@@ -21,7 +21,7 @@ class Contact extends Component {
         <div>
     </div>
         <ul class="list-group">
-          <li class="list-group-item"><a href='https://cars-on-ice.s3.ca-central-1.amazonaws.com/2020-carsonice-rules.pdf' target="_blank" rel="noopener noreferrer">Cars On Ice Rules</a></li>
+          <li class="list-group-item"><a href='https://cars-on-ice.s3.ca-central-1.amazonaws.com/CACC+Ice+Race+Rules+2021.pdf' target="_blank" rel="noopener noreferrer">Cars On Ice Rules</a></li>
           <li class="list-group-item"><a href='https://cars-on-ice.s3.ca-central-1.amazonaws.com/2021+Cars+on+Ice+Supplementary+Regulations.pdf' target="_blank" rel="noopener noreferrer">Cars On Ice Supplemental Regulations</a></li>
           <li class="list-group-item"><a href='https://cars-on-ice.s3.ca-central-1.amazonaws.com/2020-carsonice-techform.pdf' target="_blank" rel="noopener noreferrer">Cars On Ice Tech Form</a></li>
         </ul>
