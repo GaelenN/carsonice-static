@@ -13,7 +13,7 @@ class Register extends Component {
           <tbody>
             <tr>
               <th className="" scope="row">Ice X</th>
-              <td className="text-right">Jan 16 / 17</td>
+              <td className="text-right">Jan 23 / 24</td>
               <td className="text-right">Feb 13 / 14</td>
             </tr>
             <tr>
