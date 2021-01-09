@@ -18,7 +18,7 @@ class Register extends Component {
             <tr>
               <th className="" scope="row">Ice X</th>
               <td className="text-right">Jan 23 / 24 <strong>*Cancelled</strong></td>
-              <td className="text-right">Feb 20 / 21</td>
+              <td className="text-right">Feb 13 / 14</td>
             </tr>
             <tr>
               <th className="" scope="row">Ice Attack <small>No Passing</small></th>
