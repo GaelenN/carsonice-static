@@ -7,18 +7,22 @@ class Register extends Component {
         <h1 className="mt-3">Register</h1>
         <h5 className="my-3">Full Season Packages are Available!</h5>
 
+        <p>*Due to the changes in COVID-19 Restrictions in BC we will be doing our best to keep you all up to date if dates change or if any events get cancelled.  If you are registered you will recieve direct emails with any changes as they come out.</p>
+        
         <h3>2021 Schedule</h3>
+
+        <p></p>
 
         <table class="table mb-5">
           <tbody>
             <tr>
               <th className="" scope="row">Ice X</th>
-              <td className="text-right">Jan 23 / 24</td>
               <td className="text-right">Feb 13 / 14</td>
+              <td className="text-right">Feb 20 / 21</td>
             </tr>
             <tr>
               <th className="" scope="row">Ice Attack <small>No Passing</small></th>
-              <td className="text-right">Jan 30 / 31</td>
+              <td className="text-right">Jan 30 / 31 <strong>*Cancelled</strong></td>
               <td className="text-right">Feb 27 / 28</td>
             </tr>
           </tbody>
